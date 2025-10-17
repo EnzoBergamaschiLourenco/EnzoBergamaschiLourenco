@@ -1,7 +1,5 @@
 <h1 align="center">Enzo Bergamaschi!</h1>
 
----
-
 <p align="center">
   <strong>Systems Analysis and Development Student</strong><br>
 </p>
