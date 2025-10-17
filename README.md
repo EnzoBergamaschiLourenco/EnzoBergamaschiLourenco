@@ -15,7 +15,7 @@
 
 ---
 
-###<p align="center"> Lets connect</p>
+### Lets connect
 
 <p align="center">
   <a href="mailto:enzo.b.lourenco@gmail.com">
