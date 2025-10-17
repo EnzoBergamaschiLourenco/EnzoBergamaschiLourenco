@@ -8,14 +8,14 @@
 
 ---
 
-#### 💻 Languages & Tools I Work With:
+#### Languages & Tools I Work With:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,c,git" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+###<p align="center"> Lets connect</p>
 
 <p align="center">
   <a href="mailto:enzo.b.lourenco@gmail.com">
